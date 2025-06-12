@@ -1,1 +1,20 @@
+## Best mT5 Model for Tamil Sandhi Correction (Panbu Thokai)
+
+This repository contains the tokenizer and model configuration files for the best-performing mT5 model fine-tuned to detect and correct Sandhi errors in Tamil *Panbu Thokai* scenarios. This will be published in Huggingface in the future.
+
+The model is part of the **TamilSandhi** neuro-symbolic AI framework for sandhi error correction in Tamil. It is intended for research use and reproducibility. Model weights are included here in `safetensors` format.
+
+---
+
+## Directory Structure
+
+1. config.json
+2. generation_config.json
+3. model.safetensors
+4. special_tokens_map.json
+5. spiece.model
+6. tokenizer_config.json
+
+## Download link (Onedrive)
+https://1drv.ms/f/c/d03204a730e16502/EpSDKtHWTDNDi1AqQKFkMcMBCrIo0fjNSwcKX_1Kr6_m9A
 
