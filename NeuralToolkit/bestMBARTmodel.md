@@ -1,6 +1,6 @@
-# Best mBART Model for Tamil Sandhi Correction (Panbu Thokai)
+## Best mBART Model for Tamil Sandhi Correction (Panbu Thokai)
 
-This repository contains the tokenizer and model configuration files for the best-performing mBART model fine-tuned to detect and correct Sandhi errors in Tamil *Panbu Thokai* scenarios.
+This repository contains the tokenizer and model configuration files for the best-performing mBART model fine-tuned to detect and correct Sandhi errors in Tamil *Panbu Thokai* scenarios. This will be published in Huggingface in the future.
 
 The model is part of the **TamilSandhi** neuro-symbolic AI framework for sandhi error correction in Tamil. It is intended for research use and reproducibility. Model weights are included here in `safetensors` format.
 
