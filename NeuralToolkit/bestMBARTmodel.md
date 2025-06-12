@@ -17,3 +17,6 @@ The model is part of the **TamilSandhi** neuro-symbolic AI framework for sandhi 
 1. sentencepiece.bpe.model
 2. special_tokens_map.json
 3. tokenizer_config.json
+
+## Download link (Onedrive)
+https://1drv.ms/f/c/d03204a730e16502/EpSDKtHWTDNDi1AqQKFkMcMBCrIo0fjNSwcKX_1Kr6_m9A
