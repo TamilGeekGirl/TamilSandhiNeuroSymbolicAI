@@ -1,4 +1,4 @@
-## Readme (Best NLLB model)
+##  Best NLLB model for Tamil Sandhi Correction (Panbu Thokai)
 This folder contains all necessary configuration and tokenizer files to reproduce the preprocessing and inference settings used in the TamilSandhi project. These files are compatible with Hugging Face Transformers and can be used to initialize the model architecture and tokenizer settings. This will be published in Huggingface in the future. 
 ## Files Overview
 
