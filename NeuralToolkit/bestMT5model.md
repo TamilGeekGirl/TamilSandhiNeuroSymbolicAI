@@ -16,5 +16,5 @@ The model is part of the **TamilSandhi** neuro-symbolic AI framework for sandhi 
 6. tokenizer_config.json
 
 ## Download link (Onedrive)
-https://1drv.ms/f/c/d03204a730e16502/EpSDKtHWTDNDi1AqQKFkMcMBCrIo0fjNSwcKX_1Kr6_m9A
+https://1drv.ms/f/c/d03204a730e16502/Ejnhe4u2QExDrnjL4ssCJyoBhvSmORS9R4GNPejVXl-cJg
 
