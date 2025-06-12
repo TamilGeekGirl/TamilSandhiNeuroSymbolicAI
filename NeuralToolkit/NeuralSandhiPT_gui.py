@@ -70,7 +70,7 @@ iface = gr.Interface(
     ],
     outputs="text",
     title="Neural Tamil Sandhi Correction",
-    description="Select mT5, mBART, or NLLB to correct Sandhi errors in Tamil text. NLLB is configured to always output Tamil."
+    description="Select mT5, mBART, or NLLB to correct Sandhi errors in Tamil text."
 )
 
 if __name__ == "__main__":
