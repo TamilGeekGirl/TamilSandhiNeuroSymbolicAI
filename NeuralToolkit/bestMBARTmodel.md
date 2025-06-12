@@ -7,13 +7,13 @@ The model is part of the **TamilSandhi** neuro-symbolic AI framework for morphop
 ---
 
 ## Directory Structure
-BestMBARTmodel_panbuThokai/
-┣  Bestmbartmodel_panbuThokai/
-┃ ┣ config.json
-┃ ┣ generation_config.json
-┃ ┗ model.safetensors
+#### /BestMBARTmodel_panbuThokai/
 
-┣ BestmbartTokenizer_panbuThokai/
-┃ ┣ sentencepiece.bpe.model
-┃ ┣ special_tokens_map.json
-┃ ┗ tokenizer_config.json
+1. config.json
+2. generation_config.json
+3. model.safetensors
+
+#### /BestmbartTokenizer_panbuThokai/
+1. sentencepiece.bpe.model
+2. special_tokens_map.json
+3. tokenizer_config.json
