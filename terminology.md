@@ -45,10 +45,13 @@ If a peyarecham conveys negative meaning, it is called ethirmaraip peyarecham.
 #### Example: 
 ஓடாத வண்டி (Transliteration: odaatha vandi Translation: A vehicle that doesn’t work). 
 An ethirmaraip peyarecham without the last letter is called eeru ketta ethirmaraip peyarecham. Example: எண்ணிலா உயிர்கள் (Transliteration: ennilaa uyirkal, Translation: Countless lives). Here, the word ‘எண்ணிலாத (ennilatha)’ has become ‘எண்ணிலா (ennilaa)’ without the last letter ‘த’. 
+
 ---
 
-## Orezhuthu orumozhi: -
+## Orezhuthu orumozhi:
+
 A valid meaningful word with a single letter is called ‘ஓரெழுத்து ஒருமொழி’ (Transliteration: orezhuthu orumozhi). The list of orezhuthu orumozhi is defined in ‘Nannool’, an ancient Tamil grammar book and is as follows: - (Kanakarathinam, 2022, pp. 180-182). There are 42 characters in Tamil which are orezhuthu orumozhi.
+
 ---
 
 ## Viyangol vinaimutru and vili peyar: -
