@@ -19,13 +19,16 @@ When any of the above six letters occur at the end of a word, then it is reduced
 
 ## Mutriyalukaram: -
 The vowel ‘‘உ (Transliteration: u)” combines with all the Mei letters and produces 18 Ukaram Uyirmei letters. When any of those occur at the end of a word and is pronounced with 1 maathirai sound, it is called mutriyalukaram. If it is a two-letter word ending with any of the six letters: ‘கு’, ‘சு’, ‘டு’, ‘து’, ‘பு’, ‘று’ and the first letter is a kuril letter, then it sounds with its actual one maathirai when pronounced. The other Ukaram Uyirmei letters except ‘கு’, ‘சு’, ‘டு’, ‘து’, ‘பு’ and ‘று’ are always pronounced with one maathirai sound whenever they occur at the end of a word. 
-Examples: - பசு (Transliteration: pasu, Translation: cow), தடு (Transliteration: thadu, Translation: prevent), தும்மு (Transliteration: thummu, Translation: sneeze), நிறைவு (Transliteration: niraivu, Translation: completion), உறவு (Transliteration: uravu, Translation: relation), ஓய்வு (Transliteration: oyvu, Translation: rest), நிகழ்வு (Transliteration: nikazhvu, Translation: event) (முற்றியலுகரம், no date). 
+
+#### Examples:  
+பசு (Transliteration: pasu, Translation: cow), தடு (Transliteration: thadu, Translation: prevent), தும்மு (Transliteration: thummu, Translation: sneeze), நிறைவு (Transliteration: niraivu, Translation: completion), உறவு (Transliteration: uravu, Translation: relation), ஓய்வு (Transliteration: oyvu, Translation: rest), நிகழ்வு (Transliteration: nikazhvu, Translation: event) (முற்றியலுகரம், no date). 
 
 ---
 
 ## vinayecham: 
 A verb is called ‘வினைச்சொல்’ (Transliteration: vinaichol) in Tamil. Verbs may be complete or incomplete in Tamil. If a verb is complete, it is called ‘வினைமுற்று’ (Transliteration: vinaimutru). If a verb is incomplete, it is called ‘எச்சம்’ (Transliteration:echam)
-Example: - படித்தாள் (Transliteration:padithaal, Translation: She studied)– vinaimutru
+#### Example: 
+படித்தாள் (Transliteration:padithaal, Translation: She studied)– vinaimutru
 படித்த (Transliteration: paditha, Translation: educated) – echam 
 (Kanakarathinam, 2022, p. 66)
 If an echam ends with a vinaichol, it is called ‘வினையெச்சம் (Transliteration: vinayecham) (Parandhaamanaar, 1957, p. 127). 
@@ -38,17 +41,28 @@ A vinayecham that ends with ‘இ (e)’ soundis called ‘இகர ஈற்�
 ---
 
 ## Ethirmaraip peyarecham and eeru ketta Ethirmaraip peyarecham: -
- If a peyarecham conveys negative meaning, it is called ethirmaraip peyarecham. Example: ஓடாத வண்டி (Transliteration: odaatha vandi Translation: A vehicle that doesn’t work). 
+If a peyarecham conveys negative meaning, it is called ethirmaraip peyarecham. 
+#### Example: 
+ஓடாத வண்டி (Transliteration: odaatha vandi Translation: A vehicle that doesn’t work). 
 An ethirmaraip peyarecham without the last letter is called eeru ketta ethirmaraip peyarecham. Example: எண்ணிலா உயிர்கள் (Transliteration: ennilaa uyirkal, Translation: Countless lives). Here, the word ‘எண்ணிலாத (ennilatha)’ has become ‘எண்ணிலா (ennilaa)’ without the last letter ‘த’. 
+---
 
 ## Orezhuthu orumozhi: -
 A valid meaningful word with a single letter is called ‘ஓரெழுத்து ஒருமொழி’ (Transliteration: orezhuthu orumozhi). The list of orezhuthu orumozhi is defined in ‘Nannool’, an ancient Tamil grammar book and is as follows: - (Kanakarathinam, 2022, pp. 180-182). There are 42 characters in Tamil which are orezhuthu orumozhi.
+---
 
 ## Viyangol vinaimutru and vili peyar: -
 Vinaimutru that ends with the letters ‘க’ (ka), ‘ய’ (ya) and ‘ர்’ (ir), conveying the meanings such as ordering, requesting, praising and scolding is called viyangol vinaimutru. Example: தீமை ஒழிக (Transliteration: theemai ozhiga, Translation: Abolish evil), வாழிய சூசை (Transliteration: vaazhiya soosai , Translation: Long live soosai), வாழியர் (Transliteration: vaazhiyar, Translation: Long live!). (Kanakarathinam, 2022, p. 65)
 Vili peyar is a word that comes in the meaning of calling a person in Tamil. If the first word is a vili peyar or viyangol vinaimutru and the adjacent word begins with any of the 48 Vallina Uyirmei letters listed in Fig. 2, then a Vallina Mei letter should not be added at the end of the first word.
-Example of vili peyar: - தம்பி போ (Transliteration: thambi po, Translation: Brother! Go.)
-Example of viyangol vinaimutru: - வீழ்க கொடுமை! (Transliteration: veezhga kodumai, Translation: Let cruelty fall) (Parandhaamanaar, 1957, p. 152).
+#### Example of vili peyar: 
+தம்பி போ (Transliteration: thambi po, Translation: Brother! Go.)
+#### Example of viyangol vinaimutru: 
+வீழ்க கொடுமை! (Transliteration: veezhga kodumai, Translation: Let cruelty fall) (Parandhaamanaar, 1957, p. 152).
+
+---
+## References 
+1.	Kanakarathinam, P.K. (2022) 'தமிழ் இலக்கணம் மாணவர்களுக்கும் - அனைத்துப் போட்டித் தேர்வாளர்களுக்கும்'. Madurai, India : Venkai padhippagam.
+2.	Parandhaamanaar, A. K. (1957) 'நல்ல தமிழ் எழுத வேண்டுமா?'. Chennai, India: Tamil India padhippagam. Available at: https://www.tamildigitallibrary.in/book-detail.php?id=jZY9lup2kZl6TuXGlZQdjZt2kJY1#book1/ (Accessed: 26 January 2025).
 
 
 
