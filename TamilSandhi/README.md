@@ -19,5 +19,12 @@ Clone the repository and install in editable mode:
 ```bash
 git clone https://github.com/TamilGeekGirl/TamilSandhiLib.git
 cd TamilSandhi
-pip install -e .
+pip install tamilsandhi-toolkit
+```
+## PyPI 
+https://pypi.org/project/tamilsandhi-toolkit/
+
+
+## Usage
+import tamilsandhi 
 
