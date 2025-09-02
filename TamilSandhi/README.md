@@ -8,6 +8,9 @@ TamilSandhi is an open-source Python library for detecting and correcting Sandhi
 - Implements 8 Vallinam Deletion rules (VD_Rule_1 to VD_Rule_8)
 - Easily extendable for more Sandhi patterns
 - Includes unit tests and helper utilities
+- Tested using a comprehensive test suite of 300 tests. Test results are shown below
+![fig_testsPassed](https://github.com/user-attachments/assets/f566ce66-ca3f-406b-aef0-8129af43d4f6)
+
 
 ## Installation
 
@@ -17,3 +20,4 @@ Clone the repository and install in editable mode:
 git clone https://github.com/TamilGeekGirl/TamilSandhiLib.git
 cd TamilSandhi
 pip install -e .
+
